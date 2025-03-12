@@ -1,0 +1,16 @@
+{
+    "name": "DrawPat",
+    "short_name": "DrawPat",
+    "description": "Игра, которая уже вам знакома",
+    "start_url": "/drawpat/index.html",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#007bff",
+    "icons": [
+        {
+            "src": "/drawpat/media/svg/drawpatLogo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
